@@ -35,8 +35,8 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
 <h3>Deploy to Heroku </h3>
 <div>
-    <a href="https://dashboard.heroku.com/new?button-url=https://github.com/DoellBarr/solidmusicTemplate&template=https://github.com/DoellBarr/solidmusicTemplate"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
-</div>
+    
+https://heroku.com/deploy?template=https://github.com/Romeo99xD/by-by-vez
 
 ### Deploy to VPS
 ```
