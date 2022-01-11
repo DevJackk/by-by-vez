@@ -54,7 +54,7 @@ async def start_markup(chat_id: int, bot_username: str):
             [
                 InlineKeyboardButton(
                     await gm(chat_id, "source_code"),
-                    url="https://github.com/DoellBarr/solidmusic",
+                    url="https://t.me/BotFather",
                 )
             ],
         ]
